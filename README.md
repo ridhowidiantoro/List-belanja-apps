@@ -1,16 +1,25 @@
-# kuis1
+# 🛒 Aplikasi Mobile " List Daftar Belanja " (Frontend Only)
 
-A new Flutter project.
+Repositori ini berisi kode sumber **aplikasi mobile daftar belanja** bernama **"Daftar Belanja Ariel"**, yang dikembangkan menggunakan Flutter.  
+Aplikasi ini hanya mencakup **bagian frontend**, tanpa backend atau penyimpanan permanen.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🖼️ Menampilkan daftar produk belanja (dengan gambar, nama, dan harga)
+- ➕➖ Tombol tambah dan kurang jumlah item
+- 📊 Menampilkan total jumlah item dan total harga secara otomatis
+- 💡 Tampilan UI modern dan responsif
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Teknologi yang Digunakan
+
+- Flutter SDK (Dart)
+- Stateless & Stateful Widgets
+- Widget `ListView`, `Card`, `Row`, `Column`, `Image`, `Text`, `IconButton`
+- UI responsif & Material Design
+
+---
+
